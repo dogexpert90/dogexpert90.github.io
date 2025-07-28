@@ -1,0 +1,7 @@
+v7
+backend:
+  name: github
+  repo: dogexpert90/dogexpert90.github.io
+  branch: main
+
+media_folder: "assets/uploads"

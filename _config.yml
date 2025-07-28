@@ -1,0 +1,7 @@
+v8
+title: Dog Expert Tech
+description: Windows arvutite ja koerte teemal
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
